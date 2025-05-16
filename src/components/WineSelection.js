@@ -10,7 +10,7 @@ const WineSelection = () => {
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="bg-gray-800 rounded-xl overflow-hidden shadow-xl transform transition-all hover:scale-105">
-            <img src="https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80" alt="Vino Tinto" className="w-full h-64 object-cover" />
+            <img src="https://elcoto.com/wp-content/uploads/2021/11/Maridar-vino-tinto.jpg" alt="Vino Tinto" className="w-full h-64 object-cover" />
             <div className="p-6">
               <h3 className="text-2xl font-serif font-medium mb-2">Tintos</h3>
               <p className="text-gray-300 mb-4">Selección de los mejores Malbec, Cabernet Sauvignon y blends exclusivos.</p>
@@ -19,7 +19,7 @@ const WineSelection = () => {
           </div>
           
           <div className="bg-gray-800 rounded-xl overflow-hidden shadow-xl transform transition-all hover:scale-105">
-            <img src="https://images.unsplash.com/photo-1518818608552-195ed130cdf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="Vino Blanco" className="w-full h-64 object-cover" />
+            <img src="https://montexanic.com.mx/wp-content/uploads/2021/12/blog-los-4-blancos-1200x675.jpg" alt="Vino Blanco" className="w-full h-64 object-cover" />
             <div className="p-6">
               <h3 className="text-2xl font-serif font-medium mb-2">Blancos</h3>
               <p className="text-gray-300 mb-4">Chardonnay, Sauvignon Blanc y otras variedades refrescantes.</p>
@@ -28,7 +28,7 @@ const WineSelection = () => {
           </div>
           
           <div className="bg-gray-800 rounded-xl overflow-hidden shadow-xl transform transition-all hover:scale-105">
-            <img src="https://images.unsplash.com/photo-1436076863939-06870fe779c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="Espumante" className="w-full h-64 object-cover" />
+            <img src="https://www.coravin.com.es/cdn/shop/articles/AdobeStock_791180394_e089621f-6b1a-41ed-abd3-c1477ba88e2a.jpg?v=1732042022&width=1080" alt="Espumante" className="w-full h-64 object-cover" />
             <div className="p-6">
               <h3 className="text-2xl font-serif font-medium mb-2">Espumantes</h3>
               <p className="text-gray-300 mb-4">Champagnes y espumantes de alta gama para celebraciones.</p>

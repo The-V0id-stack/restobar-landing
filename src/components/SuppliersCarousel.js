@@ -2,12 +2,12 @@ import React, { useState, useEffect } from 'react';
 
 const SuppliersCarousel = () => {
   const [suppliers] = useState([
-    { id: 1, name: "Black Angus Ranch", logo: "/black-angus-logo.png" },
-    { id: 2, name: "Wagyu Imperial", logo: "/wagyu-logo.png" },
-    { id: 3, name: "Vineyard Estates", logo: "/vineyard-logo.png" },
-    { id: 4, name: "Organic Valley", logo: "/organic-valley-logo.png" },
-    { id: 5, name: "Truffle Hunters", logo: "/truffle-logo.png" },
-    { id: 6, name: "Sea Salt Co.", logo: "/sea-salt-logo.png" }
+    { id: 1, name: "Black Angus Ranch", logo: "./img/3_blk_angus_logo.png" },
+    { id: 2, name: "Wagyu Imperial", logo: "./img/Imperial-Wagyu-Beef-Logo.webp" },
+    { id: 3, name: "Vineyard Estates", logo: "./img/VINEYARD+Estates+LOGO+Approved+Final+013024-1-640w.png" },
+    { id: 4, name: "Organic Valley", logo: "./img/OrganicValley_logo.png" },
+    { id: 5, name: "Truffle Hunters", logo: "./img/trufflehuntingalba.com-logo.png" },
+    { id: 6, name: "Sea Salt Co.", logo: "./img/SSS_-_1200_x_628_--01.webp" }
   ]);
 
   const [currentSlide, setCurrentSlide] = useState(0);

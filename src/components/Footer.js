@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-serif font-medium mb-4">Bodega Prime</h3>
+            <h3 className="text-xl font-serif font-medium mb-4">SteakHouse</h3>
             <p className="text-gray-400">
               Carnes & Vinos de Excelencia. Una experiencia gastronómica inolvidable.
             </p>
@@ -45,7 +45,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-500">
-          <p>© {new Date().getFullYear()} Bodega Prime. Todos los derechos reservados.</p>
+          <p>© {new Date().getFullYear()} SteakHouse. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>

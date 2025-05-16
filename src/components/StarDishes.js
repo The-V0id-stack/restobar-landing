@@ -14,7 +14,7 @@ const StarDishes = () => {
       name: "Ribeye Wagyu",
       description: "Auténtica carne Wagyu A5, marmoleo perfecto, acompañado de puré de trufa",
       price: "149.99",
-      image: "https://images.unsplash.com/photo-1600891964092-4316c5330325?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+      image: "https://www.dukeshill.co.uk/cdn/shop/files/Japanese_A5_Wagyu_Beef_Ribeye_Steak_300g_2.png?v=1740591229&width=823"
     },
     {
       id: 3,

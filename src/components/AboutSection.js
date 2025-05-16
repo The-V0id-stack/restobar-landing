@@ -10,7 +10,7 @@ const AboutSection = () => {
               Nuestra Historia
             </h2>
             <p className="text-lg text-gray-700 mb-6">
-              Fundado en 2010, Bodega Prime nació de la pasión por los cortes premium y los vinos excepcionales. 
+              Fundado en 2010, SteakHouse nació de la pasión por los cortes premium y los vinos excepcionales. 
               Cada plato cuenta una historia de tradición y excelencia.
             </p>
             <p className="text-lg text-gray-700 mb-8">

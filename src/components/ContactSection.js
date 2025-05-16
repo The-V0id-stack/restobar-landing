@@ -34,7 +34,7 @@ const ContactSection = () => {
                 </div>
                 <div className="ml-4">
                   <p className="text-lg font-medium text-gray-900">Email</p>
-                  <p className="text-gray-600">reservas@bodegaprime.com</p>
+                  <p className="text-gray-600">reservas@SteakHouse.com</p>
                 </div>
               </div>
               
@@ -47,7 +47,7 @@ const ContactSection = () => {
                 </div>
                 <div className="ml-4">
                   <p className="text-lg font-medium text-gray-900">Dirección</p>
-                  <p className="text-gray-600">Av. Gourmet 1234, Capital Federal, Buenos Aires</p>
+                  <p className="text-gray-600">Jirón José Sto Chocano, Junín 12856, La Merced</p>
                 </div>
               </div>
             </div>
