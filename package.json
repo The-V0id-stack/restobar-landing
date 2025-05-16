@@ -16,7 +16,7 @@
             "tailwindcss": "^3.4.1",
             "tailwindcss-animate": "^1.0.7"
       },
-      "main": "/index.js",
+      "main": "/App.js",
       "browserslist": {
             "production": [
                   ">0.2%",
