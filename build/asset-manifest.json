@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/The-V0id-stack/restobar-landing.git/static/css/main.794da754.css",
+    "main.js": "/The-V0id-stack/restobar-landing.git/static/js/main.282558e6.js",
+    "index.html": "/The-V0id-stack/restobar-landing.git/index.html",
+    "main.794da754.css.map": "/The-V0id-stack/restobar-landing.git/static/css/main.794da754.css.map",
+    "main.282558e6.js.map": "/The-V0id-stack/restobar-landing.git/static/js/main.282558e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.794da754.css",
+    "static/js/main.282558e6.js"
+  ]
+}

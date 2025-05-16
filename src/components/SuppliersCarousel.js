@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import logo from "./img/3_blk_angus_logo.png";
 
 const SuppliersCarousel = () => {
   const [suppliers] = useState([
